@@ -1,7 +1,4 @@
-
-
-
-                         How to Avoid Multiple Cell Casting
+#    How to Avoid Multiple Cell Casting
                          
 Multiple cell casting is probably the biggest reason for a massive view controller. 
 I have searched the internet extensively and all I found was a not so massive view controller.
